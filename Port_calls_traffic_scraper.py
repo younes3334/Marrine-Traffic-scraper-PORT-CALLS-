@@ -1,7 +1,6 @@
 import os
 # Import the libraries to handle the work
 # if the libraries were not installed, they will be installed automatically
-# you can remove "#" in line 122 to have headless mode
 
 try:
     import pandas as pd
