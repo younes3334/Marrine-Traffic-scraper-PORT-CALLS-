@@ -1,4 +1,4 @@
-# PARAMETERS FOR THE SCRIPT
+# PARAMETERS FOR THE SCRIPT " port_marin_scraper_v2.py "
 
 # Keyword to search for
 # example of use : KEYWORD = "" if you want all the results, else KEYWORD = "MOROCCO" if you want only the results that contain the word "MOROCCO"
