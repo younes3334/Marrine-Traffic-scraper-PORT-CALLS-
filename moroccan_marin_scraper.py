@@ -3,6 +3,7 @@ import os
 # if the libraries were not installed, they will be installed automatically
 # the "config.py" file should be in the same folder as this script
 
+
 try:
     import pandas as pd
     import numpy as np
