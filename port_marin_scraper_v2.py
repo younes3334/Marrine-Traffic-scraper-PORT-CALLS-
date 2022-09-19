@@ -3,6 +3,8 @@ import os
 # if the libraries were not installed, they will be installed automatically
 # the "config.py" file should be in the same folder as this script
 
+APP_VERSION = 2.0
+APP_NAME = "Port Marin Scraper"
 
 try:
     import pandas as pd
